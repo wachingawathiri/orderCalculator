@@ -1,5 +1,41 @@
 body
 {
-    background-color: aqua;
+    background-color:maroon;
     
 }
+/*.navbar
+{
+    position: sticky;
+    top: 0;
+    height: 60px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background: rgb(231,226,221);
+    z-index: 1;
+}
+.navbar-centre
+{
+    width: 100%;
+    margin:0 auto ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 1.5rem;
+
+}
+.order-btn
+{
+    position: relative;
+    cursor: pointer;
+}
+.order-items
+{
+    position: absolute;
+    top: -8px;
+    right: -8px;
+    background: var(--primaryColor);
+    padding: 0 5px;
+    border-radius: 30%;
+    color: var(--mainWhite);
+}*/
